@@ -1,4 +1,4 @@
-Data Exploration and Analysis with Jupyter Notebooks
+**Data Exploration and Analysis with Jupyter Notebooks:**
 This project is focused on performing an Exploratory Data Analysis (EDA) on a customer dataset using Python. We will walk through various tasks such as data exploration, univariate and bivariate analysis, handling missing values, and calculating correlations using libraries like Pandas, Numpy, Seaborn, and Matplotlib.
 
 **Task 1: Initial Data Exploration**
